@@ -16,8 +16,8 @@
         <properties>
                 <java.version>11</java.version>
                 <spring-cloud.version>2021.0.7</spring-cloud.version>
-                <sonar.host.url>http://18.116.14.222:8082/</sonar.host.url>
-                <sonar.login>sqa_5f39c03ee1497c89ee265149ac654b3eea0057fd</sonar.login>
+                <sonar.host.url>http://54.236.47.113:8082/</sonar.host.url>
+                <sonar.login>sqa_99214039ed35e857713c11acc2c98e002e03ec2d</sonar.login>
         </properties>
         <dependencies>
                 <dependency>
